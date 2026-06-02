@@ -1,0 +1,6 @@
+pyspark
+kagglehub[pandas-datasets]
+pandas
+numpy
+scikit-learn
+jupyter

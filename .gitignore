@@ -1,0 +1,19 @@
+# Virtual Environment
+.venv/
+
+# Big Data & Datasets (Abaikan semua file data besar)
+data/
+*.csv
+*.npy
+*.npz
+*.json
+
+# Jupyter Notebook Cache
+.ipynb_checkpoints/
+
+# Python Cache
+__pycache__/
+
+# IDE Config
+.vscode/
+.idea/
