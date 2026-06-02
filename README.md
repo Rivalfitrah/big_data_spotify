@@ -1,7 +1,5 @@
 # Smart Playlist Generator: Pendekatan Hibrida (Audio DNA & Niche Genre)
 
-# Smart Playlist Generator: Pendekatan Hibrida (Audio DNA & Niche Genre)
-
 Proyek ini merupakan implementasi gabungan dari **Teknologi Big Data** dan **Kecerdasan Bisnis (Business Intelligence)**. Sistem ini mengekstrak fitur hibrida dari ratusan ribu lagu untuk menghasilkan rekomendasi playlist otomatis yang cerdas tanpa bergantung pada data riwayat interaksi pengguna (*zero user history*), sehingga secara efektif mampu menyelesaikan masalah *Cold-Start* pada platform streaming musik.
 
 ## Alur & Arsitektur Sistem
